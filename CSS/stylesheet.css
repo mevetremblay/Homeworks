@@ -1,53 +1,53 @@
 * {
-	font-family: Gill Sans, Caslon ; }
+	font-family: Gill Sans, Caslon }
 
 h2 {
 	font-family: Caslon ;
 	font-size: 40px ;
-	color: Black ; }
+	color: black }
 
 h4 {
 	font-family: Caslon ;
 	font-size: 22px ;
-	color: Black ; }
+	color: black }
 
 h5 {
 	font-family: Caslon ;
 	font-size: 16px ;
-	color: black;}	
+	color: black }	
 
 li {
 	font-family: Gill Sans ;
 	font-size: 16px ;
-	color: #7c7977 ; }
+	color: #7c7977 }
 
 ul {
 	font-family: Gill Sans ;
 	font-size: 16px ;
-	color: #7c7977 ; }	
+	color: #7c7977 }	
 	
 p {	
 	font-family: Gill Sans ;
 	font-size: 16px ;
-	color: #7c7977 ; }
+	color: #7c7977 }
 
 i {
 	font-size: 14px ;
-	color: red ; }	
+	color: red }	
 
 b {
 	size: 12px ;
-	color: black ; }	
+	color: black }	
 
 th {
 	font-size: 18px ;
-	color: #7c7977 ; }
+	color: #7c7977 }
 
 label {
-	color: #7c7977 ; }
+	color: #7c7977 }
 
 img {
-	background-color: red ;}		
+	background-color: red }		
 
 
 
