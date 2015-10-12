@@ -1,53 +1,53 @@
 * {
-	font-family: Gill Sans, Caslon }
+	font-family: Futura, Avenir }
 
 h2 {
-	font-family: Caslon ;
-	font-size: 40px ;
-	color: black }
+	font-family: Futura ;
+	font-size: 80 px ;
+	color: green }
 
 h4 {
-	font-family: Caslon ;
-	font-size: 22px ;
-	color: black }
+	font-family: Futura ;
+	font-size: 44px ;
+	color: green }
 
 h5 {
-	font-family: Caslon ;
-	font-size: 16px ;
-	color: black }	
+	font-family: Futura ;
+	font-size: 32px ;
+	color: green }	
 
 li {
-	font-family: Gill Sans ;
-	font-size: 16px ;
+	font-family: Avenir ;
+	font-size: 32px ;
 	color: #7c7977 }
 
 ul {
-	font-family: Gill Sans ;
-	font-size: 16px ;
+	font-family: Avenir ;
+	font-size: 32px ;
 	color: #7c7977 }	
 	
 p {	
-	font-family: Gill Sans ;
-	font-size: 16px ;
+	font-family: Avenir ;
+	font-size: 32px ;
 	color: #7c7977 }
 
 i {
-	font-size: 14px ;
+	font-size: 28px ;
 	color: red }	
 
 b {
-	size: 12px ;
+	size: 24px ;
 	color: black }	
 
 th {
-	font-size: 18px ;
+	font-size: 36px ;
 	color: #7c7977 }
 
 label {
 	color: #7c7977 }
 
 img {
-	background-color: red }		
+	background-color: pink }		
 
 
 
