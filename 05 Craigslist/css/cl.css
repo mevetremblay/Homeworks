@@ -658,8 +658,14 @@ white-space:nowrap}
 .toc a{
 text-decoration:none}
 
+.toc a{
+font-weight: medium; color: black}
+
 .toc a:hover{
-color:orange;}
+color:#80817b}
+
+.toc a:visited{
+color:#b6b9bb}
 
 .toc #messagetable #messages{
 text-align:right;font-size:.9em}
@@ -740,7 +746,7 @@ font-size:.8em}
 position:absolute;bottom:0;padding:9px 0;width:100%}
 
 #pagecontainer header .breadbox em{
-font-weight:normal}
+font-weight:normal;text-decoration:none}
 
 .mobile #pagecontainer header .breadbox em{
 display:none}
@@ -974,7 +980,7 @@ color:#00e}
 color:inherit;cursor:text}
 
 .toc .toc_legend a.sel:hover{
-text-decoration:none;hover:orange}
+text-decoration:none}
 
 .mobile.toc .content{
 padding:0.5em .25em 0 .25em}
@@ -1007,7 +1013,7 @@ clear:both}
 padding:2px;background:#ffffff;font-size:smaller}
 
 .toc .row .gc:hover{
-background:orange}
+background:none}
 
 .toc .row .i{
 margin-right:10px;clear:both;background-repeat:no-repeat;background-position:center center;overflow:hidden;display:none}
