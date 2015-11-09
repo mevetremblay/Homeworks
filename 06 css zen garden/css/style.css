@@ -1,0 +1,200 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* This file based on 'Tranquille' by Dave Shea */
+/* You may use this file as a foundation for any new work, but you may find it easier to start from scratch. */
+/* Not all elements are defined in this file, so you'll most likely want to refer to the xhtml as well. */
+
+/* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
+
+
+/* basic elements */
+body { 
+	line-height: 1.6;
+	margin: 0;
+	}
+p { 
+	font-family: 'EB Garamond', serif;
+	font-size: 120%;
+	margin-top: 200; 
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: black;
+	}
+a:visited { 
+	text-decoration: none; 
+	color: black;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: black;
+	}
+
+/* specific divs */
+.page-wrapper { 
+	padding: 0 0px 0 300px;  
+	margin: 0; 
+	}
+
+.intro { 
+	background-image: url("../images/Sunflowerbig.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-color: #ffe5b9;
+}
+
+header {
+	padding-top: 20px;
+	height: 87px;
+}	
+header h1 { 
+	font-family: 'Dancing Script', cursive;
+	text-transform: lowercase;
+	font-size: 700%;
+	color: black;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 10px 10px 0px 50px;
+	display: block;
+	float: left;
+	white-space: nowrap;
+	}
+header h2 { 
+	font-family: 'EB Garamond', serif;
+	font-size: 200%;
+	text-transform: uppercase;
+	color: black;
+	text-align: left;
+	margin: 0 0 0 0;
+	padding: 0px 10px 10px 50px;
+	clear: both; 
+	}
+h3 { 
+	font-family: 'EB Garamond', serif;
+	font-size: 110%;
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	padding: 0px 100px 10px 0px;
+	}	
+
+.summary {
+	clear: both; 
+	float: top;
+	padding: 80px 10px 10px 50px;
+	line-height: 1.2;
+	}
+.summary p {
+	font-family: 'EB Garamond', serif;
+	font-size: 150%;
+	font-style: italic;
+	}
+.summary a {
+	text-transform: uppercase;
+	}
+
+.preamble {
+	background-image: url("../images/smallpart65.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-color:#fecd94;
+	padding: 10px 100px 10px 50px;
+	}
+.explanation {	
+	background-color:#f8aa7f;
+	padding: 10px 100px 10px 50px;
+	}
+
+.participation {	
+	background-color:#f58c93;
+	padding: 10px 100px 10px 50px;
+	}	
+
+.benefits {	
+	background-color:#d7698e;
+	padding: 10px 100px 10px 50px;
+}
+.requirements {
+	background-color: #87cfc3;
+	padding: 10px 100px 0px 50px;
+}
+
+#zen-requirements [role=contentinfo] {
+	background-color: #64bfbc;
+	padding: 10px 100px 40px 50px; 
+	margin-left: -50px ; 
+	margin-right: -100px;
+}
+
+footer a:link, footer a:visited { 
+	padding: 10px 0px 0px 50px;
+	position: relative;
+	top: -50px;
+
+}
+.sidebar {
+	position: absolute; 
+	margin-top: 435px;
+	margin-left: 35px;
+	top: 0; 
+	left: 0;
+	}
+.sidebar .wrapper { 
+	margin-top: 50px; 
+	width: 325px; 
+	}
+.sidebar h3.select { 
+	margin: 0 0 20px 0; 
+	width: 97px; 
+	height: 16px; 
+	white-space: nowrap;
+	}
+.sidebar h3.archives { 
+	margin: 50px 0 20px 0; 
+	width:57px; 
+	height: 14px; 
+	white-space: nowrap;
+	}
+.sidebar h3.resources { 
+	margin: 50px 0 20px 0; 
+	width:63px; 
+	height: 10px; 
+	white-space: nowrap;
+	}
+.sidebar ul {
+	margin: 0;
+	padding: 0;
+	}
+.sidebar li { 
+	font-size: 14px;
+	line-height: 0.70em; 
+	padding-top: 10px; 
+	margin-bottom: 10px;
+	list-style-type: disc;
+	list-style-position: outside;
+	}
+.sidebar li a:link {
+	color: black;
+	}
+.sidebar li a:visited {
+	text-decoration: none; 
+	color: black;
+	}
+.sidebar li a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: black;
+	}
+.designer-name {
+ 	font-style: italic;
+	}
+.extra1 {
+	position: absolute; 
+	top: 40px; 
+	right: 0; 
+	width: 148px; 
+	height: 110px;
+	}	
+
+
