@@ -37,14 +37,12 @@ a:hover, a:focus, a:active {
 	padding: 0 0px 0 300px;  
 	margin: 0; 
 	}
-
 .intro { 
 	background-image: url("../images/Sunflowerbig.png");
 	background-repeat: no-repeat;
 	background-position: right top;
 	background-color: #ffe5b9;
 }
-
 header {
 	padding-top: 20px;
 	height: 87px;
@@ -94,7 +92,6 @@ h3 {
 .summary a {
 	text-transform: uppercase;
 	}
-
 .preamble {
 	background-image: url("../images/Sunflowersmallpiece.png");
 	background-repeat: no-repeat;
@@ -111,7 +108,6 @@ h3 {
 	background-color:#f58c93;
 	padding: 10px 100px 10px 50px;
 	}	
-
 .benefits {	
 	background-color:#d7698e;
 	padding: 10px 100px 10px 50px;
@@ -120,19 +116,16 @@ h3 {
 	background-color: #87cfc3;
 	padding: 10px 100px 0px 50px;
 }
-
 #zen-requirements [role=contentinfo] {
 	background-color: #64bfbc;
 	padding: 10px 100px 40px 50px; 
 	margin-left: -50px ; 
 	margin-right: -100px;
 }
-
 footer a:link, footer a:visited { 
 	padding: 10px 0px 0px 50px;
 	position: relative;
 	top: -50px;
-
 }
 .sidebar {
 	position: absolute; 
@@ -196,5 +189,3 @@ footer a:link, footer a:visited {
 	width: 148px; 
 	height: 110px;
 	}	
-
-
