@@ -302,7 +302,7 @@ div#content a {
 
 
 /*  Recipe page  */
-
+/*
 div#icons ul {
 	display: block;
 }
@@ -311,11 +311,31 @@ div#icons ul {
 div#icons li { 
 	display: inline; 
 }
+*/
 
+div#icons {
+	/*border: 1px solid red;*/
+	margin-top: 2em;
+	margin-bottom: 2em;
+	height: 180px;
+}
+div#icon_set {
+	/*border: 1px solid green;*/
+	width: 60% ;
+	margin: 0 auto;
+}
 
+div#icon_wrapper {
+	width: 33% ;
+	/*border: 1px solid brown;*/
+	float: left;
+	text-align: center;
 
+}
 
-
+figure.cleared {
+	clear: both;
+}
 
 
 /*  Contact page  */
